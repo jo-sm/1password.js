@@ -1,5 +1,5 @@
 {
-  "name": "1password",
+  "name": "1password-js",
   "version": "1.0.0",
   "description": "1Password Vault Handling in Javascript",
   "repository": "https://github.com/jo-sm/1password.js",
