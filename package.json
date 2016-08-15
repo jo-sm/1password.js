@@ -1,0 +1,13 @@
+{
+  "name": "1password",
+  "version": "1.0.0",
+  "description": "1Password Vault Handling in Javascript",
+  "repository": "https://github.com/jo-sm/1password.js",
+  "main": "vault.js",
+  "scripts": {},
+  "author": "Joshua Smock",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^3.1.4"
+  }
+}
